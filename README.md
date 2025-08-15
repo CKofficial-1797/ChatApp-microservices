@@ -33,10 +33,10 @@ It integrates **RabbitMQ**, **Socket.IO**, **Redis caching**, **Dockerized servi
 
 
 
-## 🖥 Live Demo
-> ⚠ **Note:** Due to AWS free tier expiration, the live demo is now shown on **localhost** during presentations. The architecture remains identical to the deployed version.
 
----
+ ⚠ **Note:** Due to AWS free tier expiration, the live demo is now shown on **localhost** during presentations. The architecture remains identical to the deployed version.
+
+
 
 ## 🧑‍💻 How to Run Locally
 ```bash

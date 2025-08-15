@@ -32,7 +32,8 @@ It integrates **RabbitMQ**, **Socket.IO**, **Redis caching**, **Dockerized servi
 - **Microservices Architecture:** Independent, scalable services communicating via RabbitMQ.  
 - **Caching Layer:** Redis improves performance and reduces DB load.  
 - **Scalable Backend:** Modular codebase ready for high traffic.  
-- **Cloud-Ready:** Deployed and tested on AWS.  
+- **Cloud-Ready:** Deployed and tested on AWS.
+- **Responsive Design:** Seamless experience across devices. 
 
   <img width="1920" height="1080" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/68e284c7-bf03-4a13-9e87-7bf7aef051a1" />  
   <img width="1920" height="1080" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/48b040ea-6f8a-44aa-ab5e-5d76ee5d7c4a" />
@@ -40,7 +41,7 @@ It integrates **RabbitMQ**, **Socket.IO**, **Redis caching**, **Dockerized servi
   <img width="1920" height="1080" alt="Screenshot (433)" src="https://github.com/user-attachments/assets/7157a0a7-f50d-4a5c-a6df-340b37c2528c" />
 
    <img width="1920" height="1080" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/cdd6123e-8f42-4ae8-85c4-d17213d9dbb7" />
-   - **Responsive Design:** Seamless experience across devices.
+  
    <img width="406" height="847" alt="responsiveChatApp" src="https://github.com/user-attachments/assets/f777c172-195c-4e5b-b6bd-4be2038e50b4" />
    <img width="406" height="841" alt="responsive2" src="https://github.com/user-attachments/assets/c3bbb887-c63d-4c05-91cc-59b3f8af8ad9" />
 
